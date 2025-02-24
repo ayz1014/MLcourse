@@ -2,6 +2,7 @@
 Maze Game with Q-Learning AI
 
 1.Overview
+
 This project is a maze-solving game implemented in Python using the tkinter library for the graphical user interface (GUI). The game supports two modes:
 
 (1)Player Mode : The player can manually navigate through the maze using keyboard controls.
@@ -9,7 +10,9 @@ This project is a maze-solving game implemented in Python using the tkinter libr
 The maze is generated using a Depth-First Search (DFS) algorithm, and the AI agent learns to solve the maze by updating its Q-Table based on rewards and penalties.
 
 2.Features
+
 Dynamic Maze Generation : A random maze is generated each time the game starts using DFS.
+
 Two Game Modes :
 Player Mode : Control the player using arrow keys (Up, Down, Left, Right).
 AI Mode : Watch the AI solve the maze autonomously.
