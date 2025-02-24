@@ -37,13 +37,6 @@ You can install the required libraries using the following command:
 pip install numpy
 (Note: tkinter is included with most Python installations. If it's not available, you may need to install it via your system package manager (e.g., sudo apt-get install python3-tk on Ubuntu). )
 
-Clone the Repository
-
-To clone this repository, run the following command:
-
-git clone https://github.com/your-username/maze-game-q-learning.git
-cd maze-game-q-learning
-
 4.Usage
 
 Run the game script:
